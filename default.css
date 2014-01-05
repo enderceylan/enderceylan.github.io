@@ -1,2 +1,73 @@
-body {
+body 
+{
+	background: red;
+	animation: colorChanger 30s;
+	animation-iteration-count: infinite;
+}
+
+#mapBox
+{
+	background: #FFFFFF;
+	height: 500px;
+	width: 700px;
+	font-family: "Open Sans";
+	margin: 30px;
+	border: dashed;
+	border-width: thin;
+
+}
+
+#infotable
+{
+	width: 600px;
+	height: 250px;
+	background: white;
+	border: dashed;
+	border-width: thin;
+	margin: 30px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	padding-left:20px;
+	font-family: "Open Sans";
+
+}
+
+#pagename
+{
+	color: #343439;
+	font-family: "Open Sans";
+	font-variant: small-caps;
+	font-size: xx-large;
+	font-weight: bold;
+}
+
+#name
+{
+	color: #0066FF;
+	font-family: "Open Sans";
+	font-variant: small-caps;
+	font-size: x-large;
+	font-weight: bold;
+}
+
+#nickname, #highpoint, #capital, #largestcity
+{
+	color: #AFAFAF;
+	font-family: "Open Sans";
+	font-size: small;
+	font-style: italic;
+}
+
+@keyframes colorChanger
+{
+	0%	{background: red;}
+	10%	{background: orange;}
+	20%	{background: yellow;}
+	30%	{background: green;}
+	40%	{background: blue;}
+	50%	{background: green;}
+	60%	{background: yellow;}
+	70%	{background: orange;}
+	80%	{background: red;}
+	100% {background: red;}
 }
