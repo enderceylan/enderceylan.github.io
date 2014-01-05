@@ -1,6 +1,6 @@
 body 
 {
-	background: red;
+	background: red; 
 	animation: colorChanger 30s;
 	animation-iteration-count: infinite;
 }
