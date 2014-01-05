@@ -1,0 +1,360 @@
+<?xml version="1.0"?>
+<states>
+	<state>
+		<name>Alabama</name>
+		<nickname>The Heart of Dixie</nickname>
+		<capital>Montgomery</capital>
+		<largestcity>Birmingham</largestcity>
+		<highpoint>Cheaha Mountain</highpoint>
+	</state>
+	<state>
+		<name>Alaska</name>
+		<nickname>The Last Frontier</nickname>
+		<capital>Juneau</capital>
+		<largestcity>Anchorage</largestcity>
+		<highpoint>Mount McKinley</highpoint>
+	</state>
+	<state>
+		<name>Arizona</name>
+		<nickname>The Grand Canyon State</nickname>
+		<capital>Phoenix</capital>
+		<largestcity>Phoenix</largestcity>
+		<highpoint>Humphreys Peak</highpoint>
+	</state>
+	<state>
+		<name>Arkansas</name>
+		<nickname>The Natural State</nickname>
+		<capital>Little Rock</capital>
+		<largestcity>Little Rock</largestcity>
+		<highpoint>Magazine Mountain</highpoint>
+	</state>
+	<state>
+		<name>California</name>
+		<nickname>The Golden State</nickname>
+		<capital>Sacramento</capital>
+		<largestcity>Los Angeles</largestcity>
+		<highpoint>Mount Whitney</highpoint>
+	</state>
+	<state>
+		<name>Colorado</name>
+		<nickname>The Centennial State</nickname>
+		<capital>Denver</capital>
+		<largestcity>Denver</largestcity>
+		<highpoint>Mount Elbert</highpoint>
+	</state>
+	<state>
+		<name>Connecticut</name>
+		<nickname>The Constitution State</nickname>
+		<capital>Hartford</capital>
+		<largestcity>Bridgeport</largestcity>
+		<highpoint>Mount Frissell</highpoint>
+	</state>
+	<state>
+		<name>Delaware</name>
+		<nickname>The First State</nickname>
+		<capital>Dover</capital>
+		<largestcity>Wilmington</largestcity>
+		<highpoint>Elbright Azimuth</highpoint>
+	</state>
+	<state>
+		<name>Florida</name>
+		<nickname>The Sunshine State</nickname>
+		<capital>Tallahassee</capital>
+		<largestcity>Jacksonville</largestcity>
+		<highpoint>Britton Hill</highpoint>
+	</state>
+	<state>
+		<name>Georgia</name>
+		<nickname>The Peach State</nickname>
+		<capital>Atlanta</capital>
+		<largestcity>Atlanta</largestcity>
+		<highpoint>Brasstown Bald</highpoint>
+	</state>
+	<state>
+		<name>Hawaii</name>
+		<nickname>The Aloha State</nickname>
+		<capital>Honolulu</capital>
+		<largestcity>Honolulu</largestcity>
+		<highpoint>Mauna Kea</highpoint>
+	</state>
+	<state>
+		<name>Idaho</name>
+		<nickname>The Gem State</nickname>
+		<capital>Boise</capital>
+		<largestcity>Boise</largestcity>
+		<highpoint>Borah Peak</highpoint>
+	</state>
+	<state>
+		<name>Illinois</name>
+		<nickname>The Prairie State</nickname>
+		<capital>Springfield</capital>
+		<largestcity>Chicago</largestcity>
+		<highpoint>Charles Mound</highpoint>
+	</state>
+	<state>
+		<name>Indiana</name>
+		<nickname>The Hoosier State</nickname>
+		<capital>Indianapolis</capital>
+		<largestcity>Indianapolis</largestcity>
+		<highpoint>Hoosier Hill</highpoint>
+	</state>
+	<state>
+		<name>Iowa</name>
+		<nickname>The Hawkeye State</nickname>
+		<capital>Des Moines</capital>
+		<largestcity>Des Moines</largestcity>
+		<highpoint>Hawkeye Point</highpoint>
+	</state>
+	<state>
+		<name>Kansas</name>
+		<nickname>The Sunflower State</nickname>
+		<capital>Topeka</capital>
+		<largestcity>Wichita</largestcity>
+		<highpoint>Mount Sunflower</highpoint>
+	</state>
+	<state>
+		<name>Kentucky</name>
+		<nickname>The Bluegrass State</nickname>
+		<capital>Frankfort</capital>
+		<largestcity>Louisville</largestcity>
+		<highpoint>Black Mountain</highpoint>
+	</state>
+	<state>
+		<name>Louisiana</name>
+		<nickname>The Pelican State</nickname>
+		<capital>Baton Rouge</capital>
+		<largestcity>New Orleans</largestcity>
+		<highpoint>Driskill Mountain</highpoint>
+	</state>
+	<state>
+		<name>Maine</name>
+		<nickname>The Pine Tree State</nickname>
+		<capital>Augusta</capital>
+		<largestcity>Portland</largestcity>
+		<highpoint>Mount Katahdin</highpoint>
+	</state>
+	<state>
+		<name>Maryland</name>
+		<nickname>The Old Line State</nickname>
+		<capital>Annapolis</capital>
+		<largestcity>Baltimore</largestcity>
+		<highpoint>Hoye-Crest</highpoint>
+	</state>
+	<state>
+		<name>Massachusetts</name>
+		<nickname>The Bay State</nickname>
+		<capital>Boston</capital>
+		<largestcity>Boston</largestcity>
+		<highpoint>Mount Greylock</highpoint>
+	</state>
+	<state>
+		<name>Michigan</name>
+		<nickname>The Great Lakes State</nickname>
+		<capital>Lansing</capital>
+		<largestcity>Detroit</largestcity>
+		<highpoint>Mount Arvon</highpoint>
+	</state>
+	<state>
+		<name>Minnesota</name>
+		<nickname>The North Star State</nickname>
+		<capital>Saint Paul</capital>
+		<largestcity>Minneapolis</largestcity>
+		<highpoint>Eagle Mountain</highpoint>
+	</state>
+	<state>
+		<name>Mississippi</name>
+		<nickname>The Magnolia State</nickname>
+		<capital>Jackson</capital>
+		<largestcity>Jackson</largestcity>
+		<highpoint>Woodall Mountain</highpoint>
+	</state>
+	<state>
+		<name>Missouri</name>
+		<nickname>The Show-Me State</nickname>
+		<capital>Jefferson City</capital>
+		<largestcity>Kansas City</largestcity>
+		<highpoint>Taum Sauk Mountain</highpoint>
+	</state>
+	<state>
+		<name>Montana</name>
+		<nickname>The Treasure State</nickname>
+		<capital>Helena</capital>
+		<largestcity>Billings</largestcity>
+		<highpoint>Granite Peak</highpoint>
+	</state>
+	<state>
+		<name>Nebraska</name>
+		<nickname>The Cornhusker State</nickname>
+		<capital>Lincoln</capital>
+		<largestcity>Omaha</largestcity>
+		<highpoint>Panorama Point</highpoint>
+	</state>
+	<state>
+		<name>Nevada</name>
+		<nickname>The Silver State</nickname>
+		<capital>Carson City</capital>
+		<largestcity>Las Vegas</largestcity>
+		<highpoint>Boundary Peak</highpoint>
+	</state>
+	<state>
+		<name>New Hampshire</name>
+		<nickname>The Granite State</nickname>
+		<capital>Concord</capital>
+		<largestcity>Manchester</largestcity>
+		<highpoint>Mount Washington</highpoint>
+	</state>
+	<state>
+		<name>New Jersey</name>
+		<nickname>The Garden State</nickname>
+		<capital>Trenton</capital>
+		<largestcity>Newark</largestcity>
+		<highpoint>High Point</highpoint>
+	</state>
+	<state>
+		<name>New Mexico</name>
+		<nickname>The Land of Enchantment</nickname>
+		<capital>Santa Fe</capital>
+		<largestcity>Albuquerque</largestcity>
+		<highpoint>Wheeler Peak</highpoint>
+	</state>
+	<state>
+		<name>New York</name>
+		<nickname>The Empire State</nickname>
+		<capital>Albany</capital>
+		<largestcity>New York</largestcity>
+		<highpoint>Mount Marcy</highpoint>
+	</state>
+	<state>
+		<name>North Carolina</name>
+		<nickname>The Old North State</nickname>
+		<capital>Raleigh</capital>
+		<largestcity>Charlotte</largestcity>
+		<highpoint>Mount Mitchell</highpoint>
+	</state>
+	<state>
+		<name>North Dakota</name>
+		<nickname>The Peace Garden State</nickname>
+		<capital>Bismarck</capital>
+		<largestcity>Fargo</largestcity>
+		<highpoint>White Butte</highpoint>
+	</state>
+	<state>
+		<name>Ohio</name>
+		<nickname>The Buckeye State</nickname>
+		<capital>Columbus</capital>
+		<largestcity>Columbus</largestcity>
+		<highpoint>Campbell Hill</highpoint>
+	</state>
+	<state>
+		<name>Oklahoma</name>
+		<nickname>The Sooner State</nickname>
+		<capital>Oklahoma City</capital>
+		<largestcity>Oklahoma City</largestcity>
+		<highpoint>Black Mesa</highpoint>
+	</state>
+	<state>
+		<name>Oregon</name>
+		<nickname>The Beaver State</nickname>
+		<capital>Salem</capital>
+		<largestcity>Portland</largestcity>
+		<highpoint>Mount Hood</highpoint>
+	</state>
+	<state>
+		<name>Pennsylvania</name>
+		<nickname>The Keystone State</nickname>
+		<capital>Harrisburg</capital>
+		<largestcity>Philadelphia</largestcity>
+		<highpoint>Mount Davis</highpoint>
+	</state>
+	<state>
+		<name>Rhode Island</name>
+		<nickname>The Ocean State</nickname>
+		<capital>Providence</capital>
+		<largestcity>Providence</largestcity>
+		<highpoint>Jerimoth Hill</highpoint>
+	</state>
+	<state>
+		<name>South Carolina</name>
+		<nickname>The Palmetto State</nickname>
+		<capital>Columbia</capital>
+		<largestcity>Columbia</largestcity>
+		<highpoint>Sassafras Mountain</highpoint>
+	</state>
+	<state>
+		<name>South Dakota</name>
+		<nickname>The Mount Rushmore State</nickname>
+		<capital>Pierre</capital>
+		<largestcity>Sioux Falls</largestcity>
+		<highpoint>Harney Peak</highpoint>
+	</state>
+	<state>
+		<name>Tennessee</name>
+		<nickname>The Volunteer State</nickname>
+		<capital>Nashville</capital>
+		<largestcity>Memphis</largestcity>
+		<highpoint>Clingmans Dome</highpoint>
+	</state>
+	<state>
+		<name>Texas</name>
+		<nickname>The Lone Star State</nickname>
+		<capital>Austin</capital>
+		<largestcity>Houston</largestcity>
+		<highpoint>Guadalupe Peak</highpoint>
+	</state>
+	<state>
+		<name>Utah</name>
+		<nickname>The Beehive State</nickname>
+		<capital>Salt Lake City</capital>
+		<largestcity>Salt Lake City</largestcity>
+		<highpoint>Kings Peak</highpoint>
+	</state>
+	<state>
+		<name>Vermont</name>
+		<nickname>The Green Mountain State</nickname>
+		<capital>Montpelier</capital>
+		<largestcity>Burlington</largestcity>
+		<highpoint>Mount Mansfield</highpoint>
+	</state>
+	<state>
+		<name>Virginia</name>
+		<nickname>The Old Dominion State</nickname>
+		<capital>Richmond</capital>
+		<largestcity>Virginia Beach</largestcity>
+		<highpoint>Mount Rogers</highpoint>
+	</state>
+	<state>
+		<name>Washington</name>
+		<nickname>The Evergreen State</nickname>
+		<capital>Olympia</capital>
+		<largestcity>Seattle</largestcity>
+		<highpoint>Mount Rainier</highpoint>
+	</state>
+	<state>
+		<name>Washington, D.C.</name>
+		<nickname>The Nation&apos;s Capital</nickname>
+		<capital>n/a</capital>
+		<largestcity>n/a</largestcity>
+		<highpoint>Fort Reno</highpoint>
+	</state>
+	<state>
+		<name>West Virginia</name>
+		<nickname>The Mountain State</nickname>
+		<capital>Charleston</capital>
+		<largestcity>Charleston</largestcity>
+		<highpoint>Spruce Knob</highpoint>
+	</state>
+	<state>
+		<name>Wisconsin</name>
+		<nickname>The Badger State</nickname>
+		<capital>Madison</capital>
+		<largestcity>Milwaukee</largestcity>
+		<highpoint>Timms Hill</highpoint>
+	</state>
+	<state>
+		<name>Wyoming</name>
+		<nickname>The Equality State</nickname>
+		<capital>Cheyenne</capital>
+		<largestcity>Cheyenne</largestcity>
+		<highpoint>Gannett Peak</highpoint>
+	</state>
+</states>
