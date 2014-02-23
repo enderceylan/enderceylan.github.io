@@ -1,0 +1,39 @@
+body
+{
+	background: #808080;
+	font-family: "Courier New";
+}
+
+#form
+{
+	border: dashed;
+	background: #FFFF99;
+	background-image:url('http://i.imgur.com/3M0uN8X.jpg');
+	width: 500px;
+	height: 500px;
+	margin: 50px;
+	padding: 50px;
+}
+
+#idcard
+{
+	border: solid;
+	background: white;
+	background-image:url('http://i.imgur.com/BLb77Iz.jpg');
+	font-family: "Verdana";
+	width: 500px;
+	height: 200px;
+	margin: 50px;
+	padding: 20px;
+}
+
+#submit
+{
+	font-size: 20px;
+	background: white;
+	border-color: black;
+	border: solid;
+	width: 100px;
+	height: 30px;
+	padding: 5px;
+}
