@@ -19,7 +19,7 @@ var ball = {x: width/2,
             dir: 5};
 var paused = false;
 var muted = false;
-var sound = new Audio("sound.mp3");
+var sound = new Audio("http://enderceylan.me/pong/sound.mp3");
 
 function movePaddle(event)
 {
