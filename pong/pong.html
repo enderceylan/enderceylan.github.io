@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Pong</title>
+        <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+        <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"></link>
+        <script src="pong.js" type="text/javascript"></script>
+        <link rel="stylesheet" href="pong.css"></link>
+    </head>
+    <body onmousemove="movePaddle(event)">
+        <div id="startScreen">
+            <div id="title">PONG</div>
+            Control your paddle with your mouse. Choose a difficulty:
+            <div id="options">
+                <div class="mode" id="easy">EASY MODE</div>
+                <div class="mode" id="hard">HARD MODE</div>
+            </div>
+        </div>
+        <div id="game" onchange="update()">
+            <div class="paddle" id="player"></div>
+            <div id="pause" onclick="pauseGame()"><i class="fa fa-pause"></i></div>
+            <div id="volume" onclick="mute()"><i class="fa fa-volume-up"></i></div>
+            <div id="divider"></div>
+            <div id="ball"></div>
+            <div id="playerScore">0</div>
+            <div id="cpuScore">0</div>
+            <div class="paddle" id="cpu"></div>
+        </div>
+    </body>
+</html>
